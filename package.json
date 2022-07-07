@@ -1,0 +1,29 @@
+{
+  "name": "javascriptexerciseswithtests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athos54/javascriptExercisesWithTests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/athos54/javascriptExercisesWithTests/issues"
+  },
+  "homepage": "https://github.com/athos54/javascriptExercisesWithTests#readme",
+  "dependencies": {
+    "jest": "^28.1.2"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.18.6"
+  }
+}
